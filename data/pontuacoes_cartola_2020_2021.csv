@@ -1,204 +1,211 @@
-RODADA,TIME,PONTUAÇÃO
-RODADA 5,Unichampions,16.54
-RODADA 27,Unichampions,20.87
-RODADA 8,Unichampions,21.13
-RODADA 6,Unichampions,22.35
-RODADA 1,Unichampions,23.21
-RODADA 16,Unichampions,23.92
-RODADA 10,Unichampions,25.87
-RODADA 26,Unichampions,32.47
-RODADA 14,Unichampions,34.53
-RODADA 22,Unichampions,37.06
-RODADA 29,Unichampions,37.58
-RODADA 2,Unichampions,37.61
-RODADA 13,Unichampions,43.01
-RODADA 7,Unichampions,43.44
-RODADA 4,Unichampions,47.02
-RODADA 3,Unichampions,48.05
-RODADA 19,Unichampions,51.17
-RODADA 17,Unichampions,51.41
-RODADA 11,Unichampions,55.75
-RODADA 21,Unichampions,65.48
-RODADA 25,Unichampions,67.27
-RODADA 12,Unichampions,68.13
-RODADA 28,Unichampions,69.25
-RODADA 20,Unichampions,71.31
-RODADA 9,Unichampions,71.56
-RODADA 24,Unichampions,78.2
-RODADA 18,Unichampions,83.59
-RODADA 23,Unichampions,87.04
-RODADA 15,Unichampions,88.55
-RODADA 26,Gigante de JF,15.87
-RODADA 2,Gigante de JF,23.67
-RODADA 4,Gigante de JF,27.13
-RODADA 28,Gigante de JF,28.27
-RODADA 1,Gigante de JF,31.93
-RODADA 6,Gigante de JF,32.88
-RODADA 5,Gigante de JF,37.18
-RODADA 7,Gigante de JF,37.78
-RODADA 29,Gigante de JF,40.68
-RODADA 22,Gigante de JF,44.16
-RODADA 21,Gigante de JF,46.12
-RODADA 16,Gigante de JF,50.85
-RODADA 20,Gigante de JF,52.38
-RODADA 25,Gigante de JF,53.97
-RODADA 10,Gigante de JF,55.07
-RODADA 11,Gigante de JF,59.97
-RODADA 19,Gigante de JF,62.95
-RODADA 3,Gigante de JF,66.58
-RODADA 13,Gigante de JF,71.9
-RODADA 8,Gigante de JF,77.38
-RODADA 17,Gigante de JF,78.09
-RODADA 27,Gigante de JF,78.17
-RODADA 23,Gigante de JF,78.42
-RODADA 12,Gigante de JF,79.55
-RODADA 9,Gigante de JF,79.67
-RODADA 18,Gigante de JF,81.99
-RODADA 15,Gigante de JF,82.29
-RODADA 24,Gigante de JF,90.93
-RODADA 14,Gigante de JF,94.06
-RODADA 22,Vanculotte Atiantino,20.28
-RODADA 10,Vanculotte Atiantino,20.32
-RODADA 16,Vanculotte Atiantino,23.04
-RODADA 5,Vanculotte Atiantino,24.98
-RODADA 2,Vanculotte Atiantino,28.66
-RODADA 1,Vanculotte Atiantino,30.98
-RODADA 28,Vanculotte Atiantino,40.25
-RODADA 12,Vanculotte Atiantino,41.53
-RODADA 11,Vanculotte Atiantino,43.99
-RODADA 3,Vanculotte Atiantino,44.53
-RODADA 26,Vanculotte Atiantino,45.44
-RODADA 13,Vanculotte Atiantino,49.2
-RODADA 29,Vanculotte Atiantino,51.21
-RODADA 20,Vanculotte Atiantino,51.71
-RODADA 21,Vanculotte Atiantino,56.65
-RODADA 23,Vanculotte Atiantino,57.07
-RODADA 4,Vanculotte Atiantino,61.87
-RODADA 17,Vanculotte Atiantino,64.59
-RODADA 25,Vanculotte Atiantino,65.97
-RODADA 7,Vanculotte Atiantino,68.91
-RODADA 24,Vanculotte Atiantino,70.23
-RODADA 14,Vanculotte Atiantino,70.26
-RODADA 18,Vanculotte Atiantino,76.85
-RODADA 19,Vanculotte Atiantino,76.86
-RODADA 6,Vanculotte Atiantino,77.78
-RODADA 15,Vanculotte Atiantino,77.92
-RODADA 8,Vanculotte Atiantino,82.46
-RODADA 9,Vanculotte Atiantino,83.07
-RODADA 27,Vanculotte Atiantino,94.56
-RODADA 12,Caio do Céu,0.0
-RODADA 16,Caio do Céu,14.35
-RODADA 11,Caio do Céu,24.97
-RODADA 2,Caio do Céu,31.57
-RODADA 3,Caio do Céu,34.23
-RODADA 6,Caio do Céu,35.78
-RODADA 29,Caio do Céu,36.08
-RODADA 4,Caio do Céu,37.14
-RODADA 21,Caio do Céu,40.93
-RODADA 20,Caio do Céu,42.01
-RODADA 1,Caio do Céu,44.61
-RODADA 28,Caio do Céu,46.62
-RODADA 10,Caio do Céu,48.37
-RODADA 5,Caio do Céu,50.98
-RODADA 26,Caio do Céu,52.94
-RODADA 22,Caio do Céu,58.29
-RODADA 7,Caio do Céu,59.31
-RODADA 25,Caio do Céu,60.77
-RODADA 13,Caio do Céu,62.4
-RODADA 19,Caio do Céu,62.8
-RODADA 8,Caio do Céu,66.76
-RODADA 23,Caio do Céu,69.57
-RODADA 17,Caio do Céu,69.89
-RODADA 15,Caio do Céu,70.71
-RODADA 18,Caio do Céu,74.15
-RODADA 24,Caio do Céu,78.4
-RODADA 27,Caio do Céu,81.13
-RODADA 9,Caio do Céu,90.73
-RODADA 14,Caio do Céu,91.33
-RODADA 28,Ibobesta Líbero,0.0
-RODADA 9,Ibobesta Líbero,6.89
-RODADA 20,Ibobesta Líbero,7.47
-RODADA 24,Ibobesta Líbero,8.59
-RODADA 13,Ibobesta Líbero,8.87
-RODADA 29,Ibobesta Líbero,10.91
-RODADA 23,Ibobesta Líbero,11.12
-RODADA 25,Ibobesta Líbero,20.48
-RODADA 4,Ibobesta Líbero,24.27
-RODADA 8,Ibobesta Líbero,24.44
-RODADA 27,Ibobesta Líbero,25.16
-RODADA 1,Ibobesta Líbero,27.1
-RODADA 7,Ibobesta Líbero,29.05
-RODADA 12,Ibobesta Líbero,29.06
-RODADA 16,Ibobesta Líbero,30.53
-RODADA 2,Ibobesta Líbero,30.78
-RODADA 6,Ibobesta Líbero,32.65
-RODADA 14,Ibobesta Líbero,32.72
-RODADA 3,Ibobesta Líbero,33.07
-RODADA 22,Ibobesta Líbero,33.47
-RODADA 21,Ibobesta Líbero,34.43
-RODADA 26,Ibobesta Líbero,36.71
-RODADA 5,Ibobesta Líbero,37.22
-RODADA 11,Ibobesta Líbero,39.35
-RODADA 15,Ibobesta Líbero,41.41
-RODADA 17,Ibobesta Líbero,46.46
-RODADA 10,Ibobesta Líbero,53.99
-RODADA 19,Ibobesta Líbero,61.2
-RODADA 18,Ibobesta Líbero,71.75
-RODADA 1,Do Pescoço pra Baixo é Canela EC,0.0
-RODADA 27,Do Pescoço pra Baixo é Canela EC,3.12
-RODADA 10,Do Pescoço pra Baixo é Canela EC,6.6
-RODADA 18,Do Pescoço pra Baixo é Canela EC,8.6
-RODADA 28,Do Pescoço pra Baixo é Canela EC,9.57
-RODADA 26,Do Pescoço pra Baixo é Canela EC,9.61
-RODADA 16,Do Pescoço pra Baixo é Canela EC,9.7
-RODADA 7,Do Pescoço pra Baixo é Canela EC,12.53
-RODADA 4,Do Pescoço pra Baixo é Canela EC,15.39
-RODADA 3,Do Pescoço pra Baixo é Canela EC,15.64
-RODADA 6,Do Pescoço pra Baixo é Canela EC,15.77
-RODADA 29,Do Pescoço pra Baixo é Canela EC,15.85
-RODADA 9,Do Pescoço pra Baixo é Canela EC,16.25
-RODADA 14,Do Pescoço pra Baixo é Canela EC,16.43
-RODADA 23,Do Pescoço pra Baixo é Canela EC,17.66
-RODADA 24,Do Pescoço pra Baixo é Canela EC,18.07
-RODADA 8,Do Pescoço pra Baixo é Canela EC,20.92
-RODADA 13,Do Pescoço pra Baixo é Canela EC,22.11
-RODADA 25,Do Pescoço pra Baixo é Canela EC,22.17
-RODADA 17,Do Pescoço pra Baixo é Canela EC,33.2
-RODADA 19,Do Pescoço pra Baixo é Canela EC,34.41
-RODADA 15,Do Pescoço pra Baixo é Canela EC,34.92
-RODADA 2,Do Pescoço pra Baixo é Canela EC,38.4
-RODADA 12,Do Pescoço pra Baixo é Canela EC,38.72
-RODADA 21,Do Pescoço pra Baixo é Canela EC,39.73
-RODADA 22,Do Pescoço pra Baixo é Canela EC,45.18
-RODADA 20,Do Pescoço pra Baixo é Canela EC,46.37
-RODADA 11,Do Pescoço pra Baixo é Canela EC,51.75
-RODADA 5,Do Pescoço pra Baixo é Canela EC,69.82
-RODADA 28,Janderson maisdez,-9.8
-RODADA 14,Janderson maisdez,-6.5
-RODADA 24,Janderson maisdez,-5.2
-RODADA 9,Janderson maisdez,-3.84
-RODADA 19,Janderson maisdez,-0.46
-RODADA 1,Janderson maisdez,0.0
-RODADA 26,Janderson maisdez,6.1
-RODADA 3,Janderson maisdez,8.35
-RODADA 13,Janderson maisdez,9.8
-RODADA 20,Janderson maisdez,10.81
-RODADA 18,Janderson maisdez,15.23
-RODADA 6,Janderson maisdez,16.7
-RODADA 22,Janderson maisdez,18.5
-RODADA 8,Janderson maisdez,18.93
-RODADA 4,Janderson maisdez,19.07
-RODADA 29,Janderson maisdez,26.25
-RODADA 27,Janderson maisdez,26.42
-RODADA 2,Janderson maisdez,32.59
-RODADA 12,Janderson maisdez,33.05
-RODADA 5,Janderson maisdez,37.1
-RODADA 16,Janderson maisdez,37.15
-RODADA 15,Janderson maisdez,39.9
-RODADA 10,Janderson maisdez,40.39
-RODADA 7,Janderson maisdez,46.13
-RODADA 17,Janderson maisdez,46.73
-RODADA 23,Janderson maisdez,52.4
-RODADA 21,Janderson maisdez,57.5
-RODADA 11,Janderson maisdez,59.95
-RODADA 25,Janderson maisdez,73.12
+RODADA,TIME,PONTUAÇÃO,CAPITÃO
+RODADA 5,Unichampions,16.54,-2.20
+RODADA 27,Unichampions,20.87,-2.60
+RODADA 8,Unichampions,21.13,-0.10
+RODADA 6,Unichampions,22.35,-0.30
+RODADA 1,Unichampions,23.21,0.00
+RODADA 16,Unichampions,23.92,6.70
+RODADA 10,Unichampions,25.87,2.50
+RODADA 30,Unichampions,30.75,3.80
+RODADA 14,Unichampions,34.53,7.00
+RODADA 22,Unichampions,37.06,2.20
+RODADA 29,Unichampions,37.58,1.20
+RODADA 2,Unichampions,37.61,-2.10
+RODADA 26,Unichampions,40.07,1.80
+RODADA 13,Unichampions,43.01,1.60
+RODADA 7,Unichampions,43.44,9.20
+RODADA 4,Unichampions,47.02,7.10
+RODADA 3,Unichampions,48.05,9.30
+RODADA 19,Unichampions,51.17,14.30
+RODADA 17,Unichampions,51.41,7.40
+RODADA 11,Unichampions,55.75,4.30
+RODADA 21,Unichampions,65.48,18.30
+RODADA 25,Unichampions,67.27,14.20
+RODADA 12,Unichampions,68.13,9.90
+RODADA 28,Unichampions,69.25,8.30
+RODADA 20,Unichampions,71.31,12.70
+RODADA 9,Unichampions,71.56,7.60
+RODADA 24,Unichampions,78.2,9.00
+RODADA 18,Unichampions,83.59,6.50
+RODADA 23,Unichampions,87.04,18.20
+RODADA 15,Unichampions,88.55,21.10
+RODADA 26,Gigante de JF,15.87,-4.90
+RODADA 2,Gigante de JF,23.67,1.50
+RODADA 4,Gigante de JF,27.13,1.60
+RODADA 28,Gigante de JF,28.27,2.30
+RODADA 1,Gigante de JF,31.93,0.00
+RODADA 6,Gigante de JF,32.88,6.90
+RODADA 5,Gigante de JF,37.18,0.60
+RODADA 7,Gigante de JF,37.78,0.70
+RODADA 29,Gigante de JF,40.68,4.80
+RODADA 22,Gigante de JF,44.16,3.00
+RODADA 21,Gigante de JF,46.12,5.00
+RODADA 16,Gigante de JF,50.85,2.90
+RODADA 20,Gigante de JF,52.38,12.70
+RODADA 25,Gigante de JF,53.97,0.00
+RODADA 10,Gigante de JF,55.07,1.50
+RODADA 11,Gigante de JF,59.97,0.60
+RODADA 19,Gigante de JF,62.95,14.30
+RODADA 30,Gigante de JF,63.9,12.20
+RODADA 3,Gigante de JF,66.58,0.00
+RODADA 13,Gigante de JF,71.9,9.90
+RODADA 8,Gigante de JF,77.38,8.90
+RODADA 17,Gigante de JF,78.09,16.50
+RODADA 27,Gigante de JF,78.17,13.10
+RODADA 23,Gigante de JF,78.42,18.20
+RODADA 12,Gigante de JF,79.55,5.20
+RODADA 9,Gigante de JF,79.67,10.30
+RODADA 18,Gigante de JF,81.99,6.50
+RODADA 15,Gigante de JF,82.29,9.90
+RODADA 24,Gigante de JF,90.93,12.00
+RODADA 14,Gigante de JF,94.06,18.10
+RODADA 22,Vanculotte Atiantino,20.28,-1.30
+RODADA 10,Vanculotte Atiantino,20.32,-1.60
+RODADA 16,Vanculotte Atiantino,23.04,0.00
+RODADA 5,Vanculotte Atiantino,24.98,2.90
+RODADA 2,Vanculotte Atiantino,28.66,1.50
+RODADA 1,Vanculotte Atiantino,30.98,0.00
+RODADA 28,Vanculotte Atiantino,40.25,2.30
+RODADA 12,Vanculotte Atiantino,41.53,2.80
+RODADA 11,Vanculotte Atiantino,43.99,2.90
+RODADA 3,Vanculotte Atiantino,44.53,3.70
+RODADA 26,Vanculotte Atiantino,45.44,5.90
+RODADA 13,Vanculotte Atiantino,49.2,9.20
+RODADA 29,Vanculotte Atiantino,51.21,1.20
+RODADA 20,Vanculotte Atiantino,51.71,0.00
+RODADA 21,Vanculotte Atiantino,56.65,5.00
+RODADA 23,Vanculotte Atiantino,57.07,18.20
+RODADA 4,Vanculotte Atiantino,60.07,7.10
+RODADA 17,Vanculotte Atiantino,64.59,16.50
+RODADA 25,Vanculotte Atiantino,65.97,1.70
+RODADA 7,Vanculotte Atiantino,68.91,11.50
+RODADA 24,Vanculotte Atiantino,70.23,4.30
+RODADA 14,Vanculotte Atiantino,70.26,19.20
+RODADA 30,Vanculotte Atiantino,76.25,12.20
+RODADA 18,Vanculotte Atiantino,76.85,8.00
+RODADA 19,Vanculotte Atiantino,76.86,14.30
+RODADA 6,Vanculotte Atiantino,77.78,2.90
+RODADA 15,Vanculotte Atiantino,77.92,9.90
+RODADA 8,Vanculotte Atiantino,82.46,9.90
+RODADA 9,Vanculotte Atiantino,83.07,10.30
+RODADA 27,Vanculotte Atiantino,94.56,13.10
+RODADA 16,Caio do Céu,14.35,6.70
+RODADA 11,Caio do Céu,24.97,0.90
+RODADA 2,Caio do Céu,31.57,1.50
+RODADA 3,Caio do Céu,34.23,2.80
+RODADA 6,Caio do Céu,35.78,6.90
+RODADA 29,Caio do Céu,36.08,1.60
+RODADA 4,Caio do Céu,37.14,-0.40
+RODADA 21,Caio do Céu,40.93,5.00
+RODADA 20,Caio do Céu,42.01,3.10
+RODADA 1,Caio do Céu,44.61,3.00
+RODADA 28,Caio do Céu,46.62,10.20
+RODADA 10,Caio do Céu,48.37,10.10
+RODADA 5,Caio do Céu,50.98,12.20
+RODADA 26,Caio do Céu,52.94,-4.90
+RODADA 22,Caio do Céu,58.29,3.00
+RODADA 7,Caio do Céu,59.31,11.50
+RODADA 25,Caio do Céu,60.77,1.80
+RODADA 13,Caio do Céu,62.4,6.90
+RODADA 19,Caio do Céu,62.8,5.90
+RODADA 12,Caio do Céu,63.08,9.90
+RODADA 8,Caio do Céu,66.76,15.00
+RODADA 23,Caio do Céu,69.57,0.00
+RODADA 17,Caio do Céu,69.89,16.50
+RODADA 15,Caio do Céu,70.71,9.90
+RODADA 18,Caio do Céu,74.15,6.50
+RODADA 24,Caio do Céu,78.4,9.00
+RODADA 27,Caio do Céu,81.13,13.10
+RODADA 30,Caio do Céu,86.65,12.20
+RODADA 9,Caio do Céu,90.73,18.00
+RODADA 14,Caio do Céu,91.33,19.20
+RODADA 28,Ibobesta Líbero,0.0,0.0
+RODADA 9,Ibobesta Líbero,6.89,4.90
+RODADA 30,Ibobesta Líbero,7.03,0.00
+RODADA 20,Ibobesta Líbero,7.47,0.00
+RODADA 24,Ibobesta Líbero,8.59,1.00
+RODADA 13,Ibobesta Líbero,8.87,-6.80
+RODADA 29,Ibobesta Líbero,10.91,0.40
+RODADA 23,Ibobesta Líbero,11.12,-8.90
+RODADA 25,Ibobesta Líbero,20.48,0.00
+RODADA 4,Ibobesta Líbero,24.27,4.80
+RODADA 8,Ibobesta Líbero,24.44,2.00
+RODADA 27,Ibobesta Líbero,25.16,6.50
+RODADA 1,Ibobesta Líbero,27.1,0.00
+RODADA 7,Ibobesta Líbero,29.05,0.00
+RODADA 12,Ibobesta Líbero,29.06,-2.40
+RODADA 16,Ibobesta Líbero,30.53,5.40
+RODADA 2,Ibobesta Líbero,30.78,1.50
+RODADA 6,Ibobesta Líbero,32.65,0.80
+RODADA 14,Ibobesta Líbero,32.72,5.60
+RODADA 3,Ibobesta Líbero,33.07,1.50
+RODADA 22,Ibobesta Líbero,33.47,4.10
+RODADA 21,Ibobesta Líbero,34.43,10.60
+RODADA 26,Ibobesta Líbero,36.71,6.60
+RODADA 5,Ibobesta Líbero,37.22,-2.20
+RODADA 11,Ibobesta Líbero,39.35,8.00
+RODADA 15,Ibobesta Líbero,41.41,3.70
+RODADA 17,Ibobesta Líbero,46.46,-1.70
+RODADA 10,Ibobesta Líbero,53.99,3.70
+RODADA 19,Ibobesta Líbero,61.2,1.00
+RODADA 18,Ibobesta Líbero,71.75,19.00
+RODADA 1,Do Pescoço pra Baixo é Canela EC,0.0,0.0
+RODADA 27,Do Pescoço pra Baixo é Canela EC,3.12,-2.40
+RODADA 10,Do Pescoço pra Baixo é Canela EC,6.6,1.90
+RODADA 18,Do Pescoço pra Baixo é Canela EC,8.6,0.20
+RODADA 28,Do Pescoço pra Baixo é Canela EC,9.57,-4.50
+RODADA 26,Do Pescoço pra Baixo é Canela EC,9.61,-0.60
+RODADA 16,Do Pescoço pra Baixo é Canela EC,9.7,0.20
+RODADA 7,Do Pescoço pra Baixo é Canela EC,12.53,0.00
+RODADA 30,Do Pescoço pra Baixo é Canela EC,12.72,0.00
+RODADA 4,Do Pescoço pra Baixo é Canela EC,15.39,0.50
+RODADA 3,Do Pescoço pra Baixo é Canela EC,15.64,0.00
+RODADA 6,Do Pescoço pra Baixo é Canela EC,15.77,3.80
+RODADA 29,Do Pescoço pra Baixo é Canela EC,15.85,-0.40
+RODADA 9,Do Pescoço pra Baixo é Canela EC,16.25,2.10
+RODADA 14,Do Pescoço pra Baixo é Canela EC,16.43,0.70
+RODADA 23,Do Pescoço pra Baixo é Canela EC,17.66,-1.30
+RODADA 24,Do Pescoço pra Baixo é Canela EC,18.07,9.50
+RODADA 8,Do Pescoço pra Baixo é Canela EC,20.92,0.70
+RODADA 13,Do Pescoço pra Baixo é Canela EC,22.11,4.70
+RODADA 25,Do Pescoço pra Baixo é Canela EC,22.17,-0.20
+RODADA 17,Do Pescoço pra Baixo é Canela EC,33.2,-0.80
+RODADA 19,Do Pescoço pra Baixo é Canela EC,34.41,0.00
+RODADA 15,Do Pescoço pra Baixo é Canela EC,34.92,4.00
+RODADA 2,Do Pescoço pra Baixo é Canela EC,38.4,-2.50
+RODADA 12,Do Pescoço pra Baixo é Canela EC,38.72,7.90
+RODADA 21,Do Pescoço pra Baixo é Canela EC,39.73,2.60
+RODADA 22,Do Pescoço pra Baixo é Canela EC,45.18,3.80
+RODADA 20,Do Pescoço pra Baixo é Canela EC,46.37,1.80
+RODADA 11,Do Pescoço pra Baixo é Canela EC,51.75,3.50
+RODADA 5,Do Pescoço pra Baixo é Canela EC,69.82,11.90
+RODADA 28,Janderson maisdez,-9.8,-4.50
+RODADA 14,Janderson maisdez,-6.5,-5.30
+RODADA 24,Janderson maisdez,-5.2,-2.30
+RODADA 9,Janderson maisdez,-3.84,-3.70
+RODADA 19,Janderson maisdez,-0.46,-2.30
+RODADA 1,Janderson maisdez,0.0,0.0
+RODADA 30,Janderson maisdez,6.1,1.70
+RODADA 26,Janderson maisdez,6.1,1.00
+RODADA 3,Janderson maisdez,8.35,-2.00
+RODADA 13,Janderson maisdez,9.8,-2.60
+RODADA 20,Janderson maisdez,10.81,-1.60
+RODADA 18,Janderson maisdez,15.23,-2.10
+RODADA 6,Janderson maisdez,16.7,-0.20
+RODADA 22,Janderson maisdez,18.5,3.90
+RODADA 8,Janderson maisdez,18.93,-2.40
+RODADA 4,Janderson maisdez,19.07,-0.40
+RODADA 29,Janderson maisdez,26.25,-0.40
+RODADA 27,Janderson maisdez,26.42,2.00
+RODADA 2,Janderson maisdez,32.59,4.70
+RODADA 12,Janderson maisdez,33.05,3.10
+RODADA 5,Janderson maisdez,37.1,1.60
+RODADA 16,Janderson maisdez,37.15,8.40
+RODADA 15,Janderson maisdez,39.9,11.10
+RODADA 10,Janderson maisdez,40.39,0.00
+RODADA 7,Janderson maisdez,46.13,4.00
+RODADA 17,Janderson maisdez,46.73,4.80
+RODADA 23,Janderson maisdez,52.4,15.50
+RODADA 21,Janderson maisdez,57.5,13.90
+RODADA 11,Janderson maisdez,59.95,8.00
+RODADA 25,Janderson maisdez,73.12,0.00
