@@ -6,6 +6,7 @@ RODADA 6,Unichampions,22.35,-0.30
 RODADA 1,Unichampions,23.21,0.00
 RODADA 16,Unichampions,23.92,6.70
 RODADA 10,Unichampions,25.87,2.50
+RODADA 32,Unichampions,29.92,3.30
 RODADA 30,Unichampions,30.75,3.80
 RODADA 14,Unichampions,34.53,7.00
 RODADA 22,Unichampions,37.06,2.20
@@ -29,6 +30,7 @@ RODADA 24,Unichampions,78.2,9.00
 RODADA 18,Unichampions,83.59,6.50
 RODADA 23,Unichampions,87.04,18.20
 RODADA 15,Unichampions,88.55,21.10
+RODADA 31,Unichampions,96.32,23.20
 RODADA 26,Gigante de JF,15.87,-4.90
 RODADA 2,Gigante de JF,23.67,1.50
 RODADA 4,Gigante de JF,27.13,1.60
@@ -57,8 +59,10 @@ RODADA 12,Gigante de JF,79.55,5.20
 RODADA 9,Gigante de JF,79.67,10.30
 RODADA 18,Gigante de JF,81.99,6.50
 RODADA 15,Gigante de JF,82.29,9.90
+RODADA 32,Gigante de JF,89.91,15.10
 RODADA 24,Gigante de JF,90.93,12.00
 RODADA 14,Gigante de JF,94.06,18.10
+RODADA 31,Gigante de JF,111.54,23.20
 RODADA 22,Vanculotte Atiantino,20.28,-1.30
 RODADA 10,Vanculotte Atiantino,20.32,-1.60
 RODADA 16,Vanculotte Atiantino,23.04,0.00
@@ -75,12 +79,13 @@ RODADA 29,Vanculotte Atiantino,51.21,1.20
 RODADA 20,Vanculotte Atiantino,51.71,0.00
 RODADA 21,Vanculotte Atiantino,56.65,5.00
 RODADA 23,Vanculotte Atiantino,57.07,18.20
-RODADA 4,Vanculotte Atiantino,60.07,7.10
+RODADA 4,Vanculotte Atiantino,61.87,7.10
 RODADA 17,Vanculotte Atiantino,64.59,16.50
 RODADA 25,Vanculotte Atiantino,65.97,1.70
 RODADA 7,Vanculotte Atiantino,68.91,11.50
 RODADA 24,Vanculotte Atiantino,70.23,4.30
 RODADA 14,Vanculotte Atiantino,70.26,19.20
+RODADA 32,Vanculotte Atiantino,75.35,6.50
 RODADA 30,Vanculotte Atiantino,76.25,12.20
 RODADA 18,Vanculotte Atiantino,76.85,8.00
 RODADA 19,Vanculotte Atiantino,76.86,14.30
@@ -89,6 +94,7 @@ RODADA 15,Vanculotte Atiantino,77.92,9.90
 RODADA 8,Vanculotte Atiantino,82.46,9.90
 RODADA 9,Vanculotte Atiantino,83.07,10.30
 RODADA 27,Vanculotte Atiantino,94.56,13.10
+RODADA 31,Vanculotte Atiantino,138.54,23.20
 RODADA 16,Caio do Céu,14.35,6.70
 RODADA 11,Caio do Céu,24.97,0.90
 RODADA 2,Caio do Céu,31.57,1.50
@@ -101,6 +107,7 @@ RODADA 20,Caio do Céu,42.01,3.10
 RODADA 1,Caio do Céu,44.61,3.00
 RODADA 28,Caio do Céu,46.62,10.20
 RODADA 10,Caio do Céu,48.37,10.10
+RODADA 32,Caio do Céu,49.65,15.10
 RODADA 5,Caio do Céu,50.98,12.20
 RODADA 26,Caio do Céu,52.94,-4.90
 RODADA 22,Caio do Céu,58.29,3.00
@@ -119,12 +126,15 @@ RODADA 27,Caio do Céu,81.13,13.10
 RODADA 30,Caio do Céu,86.65,12.20
 RODADA 9,Caio do Céu,90.73,18.00
 RODADA 14,Caio do Céu,91.33,19.20
+RODADA 31,Caio do Céu,99.23,11.00
 RODADA 28,Ibobesta Líbero,0.0,0.0
 RODADA 9,Ibobesta Líbero,6.89,4.90
 RODADA 30,Ibobesta Líbero,7.03,0.00
+RODADA 32,Ibobesta Líbero,7.15,0.00
 RODADA 20,Ibobesta Líbero,7.47,0.00
 RODADA 24,Ibobesta Líbero,8.59,1.00
 RODADA 13,Ibobesta Líbero,8.87,-6.80
+RODADA 31,Ibobesta Líbero,10.78,0.30
 RODADA 29,Ibobesta Líbero,10.91,0.40
 RODADA 23,Ibobesta Líbero,11.12,-8.90
 RODADA 25,Ibobesta Líbero,20.48,0.00
@@ -169,8 +179,10 @@ RODADA 24,Do Pescoço pra Baixo é Canela EC,18.07,9.50
 RODADA 8,Do Pescoço pra Baixo é Canela EC,20.92,0.70
 RODADA 13,Do Pescoço pra Baixo é Canela EC,22.11,4.70
 RODADA 25,Do Pescoço pra Baixo é Canela EC,22.17,-0.20
+RODADA 31,Do Pescoço pra Baixo é Canela EC,26.52,4.90
 RODADA 17,Do Pescoço pra Baixo é Canela EC,33.2,-0.80
 RODADA 19,Do Pescoço pra Baixo é Canela EC,34.41,0.00
+RODADA 32,Do Pescoço pra Baixo é Canela EC,34.45,3.30
 RODADA 15,Do Pescoço pra Baixo é Canela EC,34.92,4.00
 RODADA 2,Do Pescoço pra Baixo é Canela EC,38.4,-2.50
 RODADA 12,Do Pescoço pra Baixo é Canela EC,38.72,7.90
@@ -197,10 +209,12 @@ RODADA 8,Janderson maisdez,18.93,-2.40
 RODADA 4,Janderson maisdez,19.07,-0.40
 RODADA 29,Janderson maisdez,26.25,-0.40
 RODADA 27,Janderson maisdez,26.42,2.00
+RODADA 32,Janderson maisdez,31.85,3.30
 RODADA 2,Janderson maisdez,32.59,4.70
 RODADA 12,Janderson maisdez,33.05,3.10
 RODADA 5,Janderson maisdez,37.1,1.60
 RODADA 16,Janderson maisdez,37.15,8.40
+RODADA 31,Janderson maisdez,37.28,-4.90
 RODADA 15,Janderson maisdez,39.9,11.10
 RODADA 10,Janderson maisdez,40.39,0.00
 RODADA 7,Janderson maisdez,46.13,4.00
