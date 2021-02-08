@@ -3,7 +3,7 @@
 ## Introdução
 O [Cartola F.C.](cartolafc.globo.com "Abrir o Cartola F.C.") é um fantasy game de futebol do grupo Globo. É ligado ao Campeonato Brasileiro de Futebol Masculino - Série A. <br/>
 Para a temporada 2020-2021 da competição, criei com meus amigos a liga "Quem Cair Calil" para competirmos.<br/>
-A liga é composta de 4 times "sérios" (_Unichampions, Vanculotte Atiantino, Gigante de JF, Caio do Céu_) e 3 times "zoeiros" (_Ibobesta Líbero, Do Pescoço pra Baixo é Canela EC, Janderson maisdez_). A competição entre os times sérios é ver quem ganha mais ponto até o final do campeonato (38ª rodada), já entre os times zoeiros é ver quem ganha menos ponto até o final do campeonato.
+A liga é composta de 4 times "sérios" (_Unichampions, Vanculotte Atiantino, Gigante de JF, Caio do Céu_) e 3 times "zoeiros" (_Ibobesta Líbero, Do Pescoço pra Baixo é Canela EC, Janderson maisdez_). A competição entre os times sérios é ver quem ganha mais pontos até o final do campeonato (38ª rodada), já entre os times zoeiros é ver quem ganha menos pontos até o final do campeonato.
 
 ## Dados
 Todos os dados obtidos estão na pasta [data](https://github.com/Eric-Mendes/estatisticas-quem-cair-calil/tree/main/data "Ir para esta pasta").<br/>
