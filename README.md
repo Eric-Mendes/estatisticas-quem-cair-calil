@@ -1,4 +1,4 @@
-# estatisticas-quem-cair-calil <img src="https://logodownload.org/wp-content/uploads/2017/05/cartola-fc-logo.png" width=90>
+# estatisticas-quem-cair-calil <img src="https://logodownload.org/wp-content/uploads/2017/05/cartola-fc-logo.png" width=100>
 
 ## Introdução
 O [Cartola F.C.](cartolafc.globo.com "Abrir o Cartola F.C.") é um fantasy game de futebol do grupo Globo. É ligado ao Campeonato Brasileiro de Futebol Masculino - Série A. <br/>
