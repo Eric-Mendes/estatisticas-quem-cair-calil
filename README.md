@@ -1,5 +1,6 @@
 # estatisticas-quem-cair-calil <img src="https://logodownload.org/wp-content/uploads/2017/05/cartola-fc-logo.png" width=100>
-
+|<img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" width=25>|[Read this in English](https://github.com/Eric-Mendes/estatisticas-quem-cair-calil/blob/main/README.en.md "README.md in English")|
+|---|:--|
 ## Introdução
 O [Cartola F.C.](cartolafc.globo.com "Abrir o Cartola F.C.") é um fantasy game de futebol do grupo Globo. É ligado ao Campeonato Brasileiro de Futebol Masculino - Série A. <br/>
 Para a temporada 2020-2021 da competição, criei com meus amigos a liga "Quem Cair Calil" para competirmos.<br/>
