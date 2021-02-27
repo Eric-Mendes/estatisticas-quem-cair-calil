@@ -1,4 +1,4 @@
-# estatisticas-quem-cair-calil <img src="https://logodownload.org/wp-content/uploads/2017/05/cartola-fc-logo.png" width=100>
+# estatisticas-quem-cair-calil <img src="https://logodownload.org/wp-content/uploads/2017/05/cartola-fc-logo.png" width=100 align="right">
 |<img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" width=25>|[Read this in English](https://github.com/Eric-Mendes/estatisticas-quem-cair-calil/blob/main/README.en.md "README.md in English")|
 |---|:--|
 ## Introdução
