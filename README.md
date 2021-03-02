@@ -14,6 +14,7 @@ A liga é composta de 4 times "sérios" (_Unichampions, Vanculotte Atiantino, Gi
 
 ## Dados
 Todos os dados foram obtidos através de web-scraping e estão na pasta [data](https://github.com/Eric-Mendes/estatisticas-quem-cair-calil/tree/main/data "Ir para esta pasta").<br/>
+Os scripts usados para a coleta dos dados estão [nesta pasta](https://github.com/Eric-Mendes/estatisticas-quem-cair-calil/tree/main/scripts "Ir para a pasta scripts").
 Para manter os dados organizados, as informações sobre o andamento da competição e sobre as escalações de cada time para as rodadas estão separadas nos dois arquivos csv presentes na pasta.
 
 ## Notebooks
