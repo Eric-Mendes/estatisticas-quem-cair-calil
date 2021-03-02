@@ -11,6 +11,7 @@ For the 2020-2021 season of the championship, my friends and me have created "Qu
 Our league is made up of 4 (four) "serious" teams (_Unichampions, Vanculotte Atiantino, Gigante de JF, Caio do Céu_), and 3 (three) "non-serious" (_Ibobesta Líbero, Do Pescoço pra Baixo é Canela EC, Janderson maisdez_). The serious teams compete to see who scores more points until the end of the Brazilian Championship (38th round). On the other hand, the non-serious teams compete to see who scores less points until the end.
 ## Data
 All the data for this project was obtained through web-scraping, and it's inside the [data](https://github.com/Eric-Mendes/estatisticas-quem-cair-calil/tree/main/data "Open this folder") folder.<br/>
+The scripts used for collecting the data are [in this folder](https://github.com/Eric-Mendes/estatisticas-quem-cair-calil/tree/main/scripts "Go to the folder scripts").<br/>
 To keep everything organized there are 2 (two) datasets: the information about the course of the league in a csv file, and the information about each team's escalation for each of the rounds in another file.
 
 ## Notebooks
